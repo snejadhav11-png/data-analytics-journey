@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Sneha Jadhav  
-### BCA Student | Data Analyst in Progress | Aspiring Data Scientist  
+### Data Analyst in Progress | Aspiring Data Scientist  
 
 I’m currently learning **Python, SQL, Excel, Power BI, and Machine Learning** to build my career in Data Analytics and Data Science.  
 This GitHub will track all my projects, practice files, and certifications.
